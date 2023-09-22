@@ -1,0 +1,19 @@
+body {
+  font-family: "Times New Roman", Times;
+  text-align: center;
+  margin: auto;
+}
+
+form { 
+  margin: 0 auto;
+max-width:350px;
+}
+
+label {
+  text-align: center;
+  display: block;
+}
+
+@media only screen and (max-width: 600px) {
+}
+  
