@@ -2,19 +2,22 @@ h1 {
   font-family: "Times New Roman", Times;
   color: purple;
   margin-left: 40px;
+  font-size: 30px
 }
 
 body {
   font-family: "Times New Roman", Times;
   text-align: center;
   margin: auto;
-  background-color: blue;
+  background-color: LightSkyBlue;
 }
 
 form { 
   margin: 0 auto;
   max-width:350px;
   background-color: gray;
+  font-size: 20px
+
 }
 
 label {
